@@ -7,14 +7,14 @@
 
 I'm a Full-Stack Web Developer based in Venezuela 🇻🇪, available for remote work. I specialize in building scalable web applications with modern technologies across both frontend and backend.
 
-💻 My main stack includes JavaScript/TypeScript, React.js, Next.js, NestJS, Express.js, PHP and Laravel
-🗄️ On the data side I work with Supabase, MySQL, TypeORM and REST APIs
-☁️ I handle deployments with Docker, Docker Compose and Google Cloud Platform
-🤖 I've integrated AI tools (OpenAI API) into production systems for automated chat analysis and auditing
-🌱 Currently leveling up on NestJS architecture and ERP/modular system design
-👯 Open to collaborating on open source projects and freelance remote work
-🚀 I enjoy turning complex business problems into clean, functional software — from ERP modules to ticketing systems with QR codes
-📫 Reach me at: joserjromann.3.1@gmail.com 
+- 💻 My main stack includes JavaScript/TypeScript, React.js, Next.js, NestJS, Express.js, PHP and Laravel
+- 🗄️ On the data side I work with Supabase, MySQL, TypeORM and REST APIs
+- ☁️ I handle deployments with Docker, Docker Compose and Google Cloud Platform
+- 🤖 I've integrated AI tools (OpenAI API) into production systems for automated chat analysis and auditing
+- 🌱 Currently leveling up on NestJS architecture and ERP/modular system design
+- 👯 Open to collaborating on open source projects and freelance remote work
+- 🚀 I enjoy turning complex business problems into clean, functional software — from ERP modules to ticketing systems with QR codes
+- 📫 Reach me at: joserjromann.3.1@gmail.com 
 
 ## My Skills Include
 
