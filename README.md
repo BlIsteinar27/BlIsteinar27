@@ -66,7 +66,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ## Checkout my Social Media
 
-<a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
