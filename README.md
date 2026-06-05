@@ -14,9 +14,7 @@ I'm a Full-Stack Web Developer based in Venezuela 🇻🇪, available for remote
 🌱 Currently leveling up on NestJS architecture and ERP/modular system design
 👯 Open to collaborating on open source projects and freelance remote work
 🚀 I enjoy turning complex business problems into clean, functional software — from ERP modules to ticketing systems with QR codes
-📫 Reach me at: joserjromann.3.1@gmail.com | <a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
+📫 Reach me at: joserjromann.3.1@gmail.com 
 
 ## My Skills Include
 
@@ -67,7 +65,9 @@ I'm a Full-Stack Web Developer based in Venezuela 🇻🇪, available for remote
 </span>
 
 ## Checkout my Social Media
-
+ <a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 
 
 <a>
