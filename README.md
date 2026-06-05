@@ -64,6 +64,17 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
 
+## Checkout my Social Media
+
+<a href="https://www.linkedin.com/in/jose-roman-dev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a>
+</a>
+
+<a>
+</a>
 
 <!--
 **BlIsteinar27/BlIsteinar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
