@@ -76,6 +76,17 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <a>
 </a>
 
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
+
+----
+
 <!--
 **BlIsteinar27/BlIsteinar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
