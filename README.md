@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a Full-Stack Web Developer based in Venezuela 🇻🇪, available for remote work. I specialize in building scalable web applications with modern technologies across both frontend and backend.
+I transform broken digital processes into revenue-generating systems using React, Next.js, Express, and Node. Your business moves faster, your data stays clean, your systems run without breaking.
 
 - 💻 My main stack includes JavaScript/TypeScript, React.js, Next.js, NestJS, Express.js, PHP and Laravel
 - 🗄️ On the data side I work with Supabase, MySQL, TypeORM and REST APIs
