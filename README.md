@@ -5,15 +5,18 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+I'm a Full-Stack Web Developer based in Venezuela 🇻🇪, available for remote work. I specialize in building scalable web applications with modern technologies across both frontend and backend.
+
+💻 My main stack includes JavaScript/TypeScript, React.js, Next.js, NestJS, Express.js, PHP and Laravel
+🗄️ On the data side I work with Supabase, MySQL, TypeORM and REST APIs
+☁️ I handle deployments with Docker, Docker Compose and Google Cloud Platform
+🤖 I've integrated AI tools (OpenAI API) into production systems for automated chat analysis and auditing
+🌱 Currently leveling up on NestJS architecture and ERP/modular system design
+👯 Open to collaborating on open source projects and freelance remote work
+🚀 I enjoy turning complex business problems into clean, functional software — from ERP modules to ticketing systems with QR codes
+📫 Reach me at: joserjromann.3.1@gmail.com | <a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 
 ## My Skills Include
 
@@ -65,9 +68,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ## Checkout my Social Media
 
-<a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
 
 <a>
 </a>
