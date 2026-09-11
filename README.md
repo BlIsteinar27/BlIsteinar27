@@ -64,7 +64,7 @@ I build internal systems that replace manual workflows and generate measurable b
 | Nov 2025 – Jun 2026 | Full-Stack Developer | Viajes Nova, Valencia |
 | Apr 2025 – Jul 2025 | Front-end Developer | Global Business C.A, Valencia |
 
-Full detail in my [CV](./cv.pdf) · [LinkedIn](https://www.linkedin.com/in/jose-roman-dev/)
+Full detail in my [CV](./cv-09-09-2026.pdf.pdf) · [LinkedIn](https://www.linkedin.com/in/jose-roman-dev/)
 
 ---
 
