@@ -1,100 +1,73 @@
-
-<h1 align="center"><b>Hi , I'm Jose Roman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-I transform broken digital processes into revenue-generating systems using React, Next.js, Express, and Node. Your business moves faster, your data stays clean, your systems run without breaking.
-
-- 💻 My main stack includes JavaScript/TypeScript, React.js, Next.js, NestJS, Express.js, PHP and Laravel
-- 🗄️ On the data side I work with Supabase, MySQL, TypeORM and REST APIs
-- ☁️ I handle deployments with Docker, Docker Compose and Google Cloud Platform
-- 🤖 I've integrated AI tools (OpenAI API) into production systems for automated chat analysis and auditing
-- 🌱 Currently leveling up on NestJS architecture and ERP/modular system design
-- 👯 Open to collaborating on open source projects and freelance remote work
-- 🚀 I enjoy turning complex business problems into clean, functional software — from ERP modules to ticketing systems with QR codes
-- 📫 Reach me at: joserjromann.3.1@gmail.com 
-
-## My Skills Include
-
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
-
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white">
-  <img src="https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-</span>
-
-## Checkout my Social Media
- <a href="https://www.linkedin.com/in/jose-roman-dev/" target="_blank" >
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-
-
-<a>
-</a>
-
-<a>
-</a>
-
-
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=BlIsteinar27&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BlIsteinar27)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BlIsteinar27&theme=material-palenight)](https://github.com/BlIsteinar27)
+# José Román
+### Full-Stack Developer — React · Next.js · NestJS · Node.js
+
+San Diego, Venezuela (GMT-4) · Open to Remote Work & Relocation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-roman-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-roman-dev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserjromann.3.1@gmail.com)
+
 </div>
 
+---
 
-<!--
-**BlIsteinar27/BlIsteinar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
 
-Here are some ideas to get you started:
+I build internal systems that replace manual workflows and generate measurable business impact. My work lives in production ERPs, not demos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected results (production systems, ~25 daily users):**
+- ⏱️ Payment confirmations: **1.5 days → 2 hours** (approval + issuance module)
+- ✈️ Flight issuance process: **3–4 days → 4 hours** (ERP module, CRM migration)
+- 💱 Exchange rate propagation: **hours/days via WhatsApp → under 5 minutes** (centralized rate module)
+- 🤖 Advisor performance audits: **1 week → 30–40 min** (OpenAI API pipeline: prompt design, conversation filtering, evaluation metrics)
+- 🔒 Eliminated recurrent internal fraud via granular role permissions + timestamped audit history
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|-------|-------|
+| **Languages** | TypeScript, JavaScript (ES6+), PHP |
+| **Frontend** | React 19, Next.js (App Router), Tailwind, Bootstrap |
+| **Backend** | NestJS, Express.js, Laravel |
+| **Data** | Supabase (PostgreSQL, RLS, Auth), MySQL, TypeORM, REST APIs |
+| **Infra** | Google Cloud Platform, Docker, Docker Compose, Vercel |
+| **AI Integration** | OpenAI API — production prompt pipelines & automated auditing |
+
+---
+
+## Featured Projects
+
+**Pensum — Hierarchical Content Management System**
+`NestJS · React · Supabase`
+- Recursive relational data model for multi-level tree hierarchies
+- DFS-based cycle prevention and recursive subtree duplication
+- Drag & Drop node reordering with @dnd-kit + API rate limiting (100 req/min)
+
+**E-commerce Catalog — WhatsApp Direct Checkout**
+`Next.js 16 · TypeScript · Supabase`
+- Strict Server/Client Component isolation with typed Server Actions
+- Supabase Auth + Row Level Security (RLS) end-to-end
+- Cron Keepalive jobs to prevent DB cold-start latency
+
+> 🔗 Check my pinned repositories below for code and documentation.
+
+---
+
+## Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Nov 2025 – Jun 2026 | Full-Stack Developer | Viajes Nova, Valencia |
+| Apr 2025 – Jul 2025 | Front-end Developer | Global Business C.A, Valencia |
+
+Full detail in my [CV](./cv.pdf) · [LinkedIn](https://www.linkedin.com/in/jose-roman-dev/)
+
+---
+
+<div align="center">
+<i>Currently open to remote full-stack roles and freelance projects.</i>
+</div>
